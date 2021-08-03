@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-[![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=apdltpdl22)](https://github.com/anuraghazra/github-readme-stats)
+[![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=apdltpdl22&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
