@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img src="profile.gif" alt="profile">
+<img src="profile.gif" alt="profile" style="">
 
 ### Introduce Me
 <a href="https://www.linkedin.com/in/ms-rhee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
