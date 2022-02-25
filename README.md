@@ -3,8 +3,8 @@
 
 <img src="profile.gif" alt="profile">
 
-
-[![May's GitHub stats](https://github-readme-stats.vercel.app/api?username=apdltpdl22&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+### Introduce Me
+<a href="https://www.linkedin.com/in/ms-rhee/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 
 
 <p> 🔭 I’m currently working on ... </p>
