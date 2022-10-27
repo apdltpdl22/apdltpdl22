@@ -23,7 +23,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apdltpdl22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr/>
-<div align = 'center'>
-<h3>Gitlab Contribution</h3>
-<img src = "./gitlab_contribution.png" />
-</div>
